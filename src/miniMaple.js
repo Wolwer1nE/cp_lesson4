@@ -1,0 +1,5 @@
+class MiniMaple{
+
+}
+
+export {MiniMaple}
