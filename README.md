@@ -10,7 +10,9 @@ Example:
 
 4*x^3-x^2, x //=> 12*x^2 - 2*x 
 ```
-Allowed operations are +, - and *
+Allowed operations are +, -,* and ^.
+
+The program has to handle polynoms, other functions are optional.
 
 Any other operation should lead to an error.
 
