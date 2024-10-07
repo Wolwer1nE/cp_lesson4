@@ -12,7 +12,7 @@ Example:
 ```
 Allowed operations are +, -,* and ^.
 
-The program has to handle polynoms, other functions are optional.
+The program has to handle polynomials, other functions are optional.
 
 Any other operation should lead to an error.
 
